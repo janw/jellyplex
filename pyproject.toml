@@ -39,7 +39,7 @@ pydantic-settings = "^2.5.2"
 [tool.poetry.group.dev.dependencies]
 ipython = "*"
 ipdb = "*"
-ruff = "0.6.8"
+ruff = "0.6.9"
 pre-commit = "^4"
 commitizen = "^3"
 rich-codex = "^1"
