@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "jellyplex"
-version = "0.0.1"
+version = "0.1.0-a0"
 description = "Miscellaneous tools for migrating from Plex to Jellyfin"
 authors = ["Jan Willhaus <mail@janwillhaus.de>"]
 license = "Apache-2.0"
