@@ -1,0 +1,6 @@
+config.yaml
+.ruff_cache/
+
+.coverage*
+coverage.xml
+.tool-versions
